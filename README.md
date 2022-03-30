@@ -1,18 +1,16 @@
 ### Hi there 👋
 
 ```py
-class AbhigyanTrips():
+class ThomasMrchl():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.name = "Thomas Marchal";
+    self.username = "ThomasMrchl";
+    self.location = "Vosges, France";
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = ThomasMrchlTrips()
  ```
