@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://github.com/ThomasMrchl/ThomasMrchl/blob/main/developers-gif-showcase.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ## ***<div align="center">I'm Thomas, a computer sciences student 🚀</div>***  
   
 
