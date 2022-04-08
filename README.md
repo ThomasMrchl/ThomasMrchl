@@ -1,4 +1,4 @@
-## ***<div align="center">I'm Thomas, a computer sciences student 🚀</div>***  
+## ***<div align="center"><h1>I'm Thomas, a computer sciences student 🚀</h1></div>***  
   
 
 - 🔭 I’m currently working on a website called [MyDreamWallet](https://github.com/ThomasMrchl/mydreamwallet.git)  
