@@ -6,7 +6,7 @@ I am 4th year student at EFREI Paris focused on **Information Systems Strategy a
 * 🌍  I'm based in **Paris**
 * ⚡  I'm looking for a **20-week internship** starting in **November 2025!**
 * ✉️  Do not hesitate to contact me, I'm open to any opportunities : [marchalthomaswork@gmail.com](mailto:marchalthomaswork@gmail.com)
-* 🧠  I'm learning Docker
+* 🧠  I'm currently learning Docker
 
 ### Skills
 
