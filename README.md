@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thomas Marchal
 ======================================================================================================================================
 
-I am 4th year student at EFREI Paris focus on Information Systems Strategy and Governance.
+I am 4th year student at EFREI Paris focused on Information Systems Strategy and Governance, I'm highly motivated to contribute to the digitalisation of companies.
 
 * 🌍  I'm based in Paris
-* ✉️  You can contact me at [marchalthomaswork@gmail.com](mailto:marchalthomaswork@gmail.com)
-* 🧠  I'm learning Docker
 * ⚡  I'm looking for a 20-week internship starting in November 2025!
+* ✉️  Do not hesitate to contact me, I'm open to any opportunities : [marchalthomaswork@gmail.com](mailto:marchalthomaswork@gmail.com)
+* 🧠  I'm learning Docker
 
 ### Skills
 
